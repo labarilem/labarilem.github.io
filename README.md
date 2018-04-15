@@ -1,4 +1,3 @@
-# labarilem.github.io
+My personal website. https://labarilem.github.io/
 
-Personal GitHub site.
-https://labarilem.github.io/
+Thanks to https://github.com/sergiokopplin/indigo.
