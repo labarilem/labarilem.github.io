@@ -4,12 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Developing Typescript + Node.js frameworks and libraries published as NPM packages. Developing a framework for data modeling and source code generation that powers several enterprise projects.
+# About me
 
-Developing cross-platform CI and CD tools with Typescript + Node.js + C#.
+- Developing Typescript + Node.js frameworks and libraries published as NPM packages. Developing a framework for data modeling and source code generation that powers several enterprise projects.
 
-Building web applications with Typescript + React + Redux + Node.js.
+- Developing cross-platform CI and CD tools with Typescript + Node.js + C#.
 
-Built web applications with Typescript + Node.js + Angular.
+- Building web applications with Typescript + React + Redux + Node.js.
 
-Experience in C#, now experimenting .NET Core.
+- Built web applications with Typescript + Node.js + Angular.
+
+- Experience in C#, now experimenting .NET Core.
