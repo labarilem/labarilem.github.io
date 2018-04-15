@@ -2,7 +2,14 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+
+<header class="header-home {% if site.animation %}animated{% endif %}">
+
+	<a class="link" href="{{ site.url }}">
+			<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+	</a>
+
+</header>
 
 # About me
 
