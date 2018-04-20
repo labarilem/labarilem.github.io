@@ -13,6 +13,6 @@ author: marcolabarile
 externalLink: false
 ---
 
-CLI tool that fixes weird issues in projects managing dependencies with NPM.
+Npmfix is a CLI tool that fixes weird issues in projects managing dependencies with NPM.
 
 Check it out on [GitHub](https://github.com/labarilem/npmfix).
