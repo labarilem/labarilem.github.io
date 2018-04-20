@@ -1,5 +1,5 @@
 ---
-title: "Npmfix - Fixing NPM package corruption"
+title: "Npmfix"
 layout: post
 date: 2018-04-15 19:00
 tag: npm
@@ -13,6 +13,6 @@ author: marcolabarile
 externalLink: false
 ---
 
-Npmfix is a CLI tool that fixes package corruption in projects managing dependencies with NPM.
+CLI tool that fixes weird issues in projects managing dependencies with NPM.
 
 Check it out on [GitHub](https://github.com/labarilem/npmfix).
