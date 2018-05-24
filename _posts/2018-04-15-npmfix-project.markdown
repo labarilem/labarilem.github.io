@@ -1,5 +1,5 @@
 ---
-title: "Npmfix - Fixing NPM packages corruption"
+title: "Npmfix - Fixing NPM integrity check issues"
 layout: post
 date: 2018-04-15 19:00
 tag: npm
@@ -7,12 +7,40 @@ image: https://raw.githubusercontent.com/labarilem/npmfix/master/docs/images/npm
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "CLI tool that fixes weird issues in projects managing dependencies with NPM."
+description: "CLI tool that fixes integrity check issues in NPM packages installation."
 category: project
 author: marcolabarile
 externalLink: false
 ---
 
-Npmfix is a CLI tool that fixes weird issues in projects managing dependencies with NPM.
+Npmfix is a CLI tool that fixes NPM packages integrity check failures problems.
 
-Check it out on [GitHub](https://github.com/labarilem/npmfix).
+It came to be after I faced some issues I met while working with NPM packages.
+
+When:
+
+- you need to frequently link NPM packages to speed up development
+- you run integration tests that automatically install packages from local tarballs
+
+and then you run CI builds on a build server, some bad things start to happen.
+
+By bad things I mean *integrity check failures*. NPM makes sure that the checksum of a published package matches the checksum of the package you download (or fetch from your local cache). This was the actual source of my problems: something was messing with the checksums in the package lock, causing failures on the builds run by build agents.
+
+In theory, you could solve these issues by disabling [package lock files](https://docs.npmjs.com/files/package-lock.json), but this has some potentially undesired effects:
+
+- you lose the guarantee that build servers and dev machines will install the same versions of packages
+- packages installation will take more time because NPM can't skip metadata resolution in this case
+
+This was the solution I embraced for the projects that did not need the features of package lock files.
+
+But, for the remaining projects, I found myself deleting package lock files and *node_modules* folders a lot, sometimes even cleaning the global NPM cache, before pushing changes that would trigger CI builds. And of course then I needed to reinstall the whole lot of packages too. This took some time and I also felt like a human executing a script.
+
+So I wrote a Node.js CLI tool to replace me in this tedious task. Npmfix is based on a very simple algorithm:
+
+1. Continue only if the current folder has a package.json file
+2. Delete the node_modules folder
+3. Delete the package-lock.json file
+
+which can be extended (recursive search, global cache clean, etc.) by passing flags to the CLI.
+
+If you want to know more about Npmfix, visit its [Github repository](https://github.com/labarilem/npmfix).
