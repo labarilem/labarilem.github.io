@@ -1,16 +1,18 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Marco Labarile
+description: My Personal Website
+about: Software enthusiast
+author: Marco Labarile
 
-baseurl: ""
-url: ""
+logo: assets/images/profile.png
+
+github: https://github.com/labarilem/
+
+baseurl: https://marcolabarile.me/
+url: https://marcolabarile.me/
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+#disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
