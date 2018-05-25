@@ -3,12 +3,12 @@ description: My Personal Website
 about: Software enthusiast
 author: Marco Labarile
 
-logo: static/img/avatar.jpg
+logo: /static/img/avatar.png
 
 github: https://github.com/labarilem/
 
 baseurl: ""
-url: ""
+url: https://marcolabarile.me/
 
 allowsearch: true
 
