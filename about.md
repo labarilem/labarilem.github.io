@@ -1,32 +1,11 @@
 ---
-title: About
 layout: page
+title: About
+permalink: /about/
 ---
 
-<header class="header-home {% if site.animation %}animated{% endif %}">
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-	<a class="link" href="{{ site.url }}">
-			<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-	</a>
+You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
 
-</header>
-
-# About me
-
-I am an italian software developer who loves using and developing cutting edge technologies.
-
-## Working on
-
-- Enterprise project built with ASP.NET Core based microservices.
-
-## Experiences
-
-- Developed Typescript + Node.js frameworks and libraries published as NPM packages. Developing a framework for data modeling and source code generation that powers several enterprise projects.
-
-- Developed cross-platform CI and CD tools with Typescript + Node.js + C#.
-
-- Built web applications with Typescript + React + Redux + Node.js.
-
-- Built web applications with Typescript + Node.js + Angular.
-
-- Experience in C# on .NET framework and .NET Core.
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
