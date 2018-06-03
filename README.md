@@ -2,7 +2,7 @@
 
 Personal website. https://labarilem.github.io/
 
-Thanks to https://github.com/codeasashu/hcz-jekyll-blog for the Jekyll template.
+Thanks to https://github.com/sergiokopplin/indigo for the Jekyll template.
 
 ## Contributors
 

@@ -1,11 +1,4 @@
 ---
-layout: post
-title:  "Npmfix - Fixing NPM integrity check issues"
-date:   2018-04-15 19:00
-categories: npm
----
-
-<!-- ---
 title: "Npmfix - Fixing NPM integrity check issues"
 layout: post
 date: 2018-04-15 19:00
@@ -18,7 +11,7 @@ description: "CLI tool that fixes integrity check issues in NPM packages install
 category: project
 author: marcolabarile
 externalLink: false
---- -->
+---
 
 Npmfix is a CLI tool that fixes NPM packages integrity check failures problems.
 
