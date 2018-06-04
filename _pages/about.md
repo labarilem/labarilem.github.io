@@ -1,16 +1,15 @@
 ---
 permalink: /about/
+title: About me
 ---
-
-## About me
 
 I am an italian software developer who loves using and developing cutting edge technologies.
 
-### Working on
+## Working on
 
 - Enterprise project built with ASP.NET Core based microservices.
 
-### Experiences
+## Experiences
 
 - Developed Typescript + Node.js frameworks and libraries published as NPM packages. Developing a framework for data modeling and source code generation that powers several enterprise projects.
 
