@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 ---
+
 # About me
 
 I am an italian software developer who loves using and developing cutting edge technologies.
