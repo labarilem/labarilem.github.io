@@ -1,5 +1,5 @@
 ---
-permalink: about/
+permalink: /about/
 title: About me
 ---
 
@@ -7,7 +7,8 @@ I am an italian software developer who loves using and developing cutting edge t
 
 ## Working on
 
-- Enterprise project built with ASP.NET Core based microservices.
+- Enterprise project built with ASP.NET Core based microservices, polyglot persistence, sync/async communication protocols and other exciting techs.
+- Source code generator for ASP.NET Core based microservices.
 
 ## Experiences
 
