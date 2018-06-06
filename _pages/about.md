@@ -19,6 +19,7 @@ Favorite movie:
 
 - Enterprise project built with ASP.NET Core microservices. Featuring polyglot persistence, advanced monitoring, various sync/async communication protocols and lots of other exciting techs.
 - Source code generator for ASP.NET Core microservices and related components.
+- Open source side projects.
 
 ## Experience
 
@@ -36,4 +37,4 @@ Favorite movie:
 
 ## More
 
-If you want to know more, check out my [Linkedin profile](https://www.linkedin.com/in/marcolabarile/).
+If you want to know more, check out my [Linkedin](https://www.linkedin.com/in/marcolabarile/) and [GitHub](https://github.com/labarilem) profiles.
