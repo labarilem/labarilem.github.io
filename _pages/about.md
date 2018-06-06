@@ -22,14 +22,18 @@ Favorite movie:
 
 ## Experience
 
-- Developed Typescript + Node.js frameworks and libraries published as NPM packages.
+- Developed various kinds of Typescript libraries published as NPM packages.
 
-- Developing a framework for data modeling and source code generation that powers several enterprise projects.
+- Developed cross-platform CI and CD tools (e.g. build and pipeline tools) with Typescript + Node.js and C# on .NET Core. These tools have been integrated with third-party build agents systems and source control providers to automate the software production process of the company.
 
-- Developed cross-platform CI and CD tools with Typescript + Node.js + C#.
+- Developed a framework for data modeling and source code generation that powers several enterprise projects. This framework generates source code for Angular 4 frontends, ASP.NET backends and it's able to generate documentation artifacts too (e.g. markdown files, static HTML websites and PDF files).
 
-- Built web applications with Typescript + React + Redux + Node.js.
+- Built web applications with a Typescript + React + Redux frontend and a Typescript + Node.js + Express backend.
 
-- Built web applications with Angular frontend, Electron platform and Typescript + Node.js + Express backend.
+- Built web applications with an Angular 4 frontend running in Electron and a Typescript + Node.js + Express backend.
 
-- Experience in C# on .NET framework (WinForms, ASP.NET) and .NET Core (coding solutions to [Project Euler](https://projecteuler.net/archives) problems).
+- Experience in C# on .NET framework (WinForms, ASP.NET) and early .NET Core (coding solutions to [Project Euler](https://projecteuler.net/archives) problems).
+
+## More
+
+If you want to know more, check out my [Linkedin profile](https://www.linkedin.com/in/marcolabarile/).
