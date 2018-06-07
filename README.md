@@ -8,7 +8,15 @@ Quick-Start guide: https://mmistakes.github.io/minimal-mistakes/docs/quick-start
 
 ## Contributors
 
-### How to serve site in local
+### Setup
+
+Run:
+
+```
+bundle install
+```
+
+### Serve site in local
 
 Run:
 

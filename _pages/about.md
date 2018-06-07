@@ -23,13 +23,15 @@ Favorite movie:
 
 ## Experience
 
-- Developed various kinds of Typescript libraries published as NPM packages.
+- Developed various kinds of Typescript libraries published as NPM packages with continuous delivery.
 
 - Developed cross-platform CI and CD tools (e.g. build and pipeline tools) with Typescript + Node.js and C# on .NET Core. These tools have been integrated with third-party build agents systems and source control providers to automate the software production process of the company.
 
 - Developed a framework for data modeling and source code generation that powers several enterprise projects. This framework generates source code for Angular 4 frontends, ASP.NET backends and it's able to generate documentation artifacts too (e.g. markdown files, static HTML websites and PDF files).
 
 - Built web applications with a Typescript + React + Redux frontend and a Typescript + Node.js + Express backend.
+
+- Working in agile teams.
 
 - Built web applications with an Angular 4 frontend running in Electron and a Typescript + Node.js + Express backend.
 
