@@ -12,6 +12,14 @@
   {% assign gallery_layout = '' %}
 {% endif %}
 
+{% if include.columns %}
+  {% if include.columns == 2 %}
+    {% assign gallery_layout = 'half' %}
+  {% elsif include.columns >= 3 %}
+    {% assign gallery_layout = 'third' %}
+  {% endif %}
+{% endif %}
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
