@@ -1,6 +1,6 @@
 ---
-title: "Some interesting technologies - Part 1"
-excerpt: Some interesting technologies as of 06/2018.
+title: "Interesting technologies - 06/2018"
+excerpt: Some interesting technologies as of June 2018.
 categories:
   - News
 tags:
@@ -11,6 +11,8 @@ tags:
   - .NET Core
   - Machine Learning
 ---
+
+Some interesting technologies as of June 2018:
 
 - [Maid](https://github.com/egoist/maid), a Markdown driven task runner.
 
