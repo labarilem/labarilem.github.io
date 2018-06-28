@@ -31,6 +31,8 @@ Favorite movie:
 
 - Built web applications with a Typescript + React + Redux frontend and a Typescript + Node.js + Express backend.
 
+- Working with Microsoft TFS to manage builds and teamwork.
+
 - Working in agile teams.
 
 - Built web applications with an Angular 4 frontend running in Electron and a Typescript + Node.js + Express backend.
