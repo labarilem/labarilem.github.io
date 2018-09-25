@@ -1,6 +1,8 @@
 ---
 title: "Interesting technologies - 06/2018"
 excerpt: Some interesting technologies as of June 2018.
+date: 2018-06-20
+last_modified_at: 2018-06-20
 categories:
   - News
 tags:

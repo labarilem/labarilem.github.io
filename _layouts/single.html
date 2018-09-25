@@ -27,8 +27,15 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+          {% if page.last_modified_at or page.read_time%}
+            <p class="page__meta">
+            {% if page.last_modified_at %}
+              <span><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></span>
+            {% endif %}
+            {% if page.read_time %}
+              <span style="margin-left: 5px"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+            {% endif %}
+            </p>
           {% endif %}
         </header>
       {% endunless %}

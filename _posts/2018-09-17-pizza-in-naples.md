@@ -1,10 +1,16 @@
 ---
 title: "Pizza in Naples"
 excerpt: "Or \"How I spent my holidays trying some of the best pizzerias in the world\"."
+date: 2018-09-24
+last_modified_at: 2018-09-24
 categories:
   - Travel
 tags:
   - Food
+toc: true
+toc_label: Restaurants
+toc_icon: book
+toc_sticky: false
 kalo-gallery:
   - url: /assets/images/2018-09-17-pizza-in-naples/kalo-margherita.jpg
     image_path: /assets/images/2018-09-17-pizza-in-naples/kalo-margherita.jpg
@@ -30,8 +36,8 @@ michele-gallery:
     title: "The best margherita pizza in the world."
   - url: /assets/images/2018-09-17-pizza-in-naples/michele-2.jpg
     image_path: /assets/images/2018-09-17-pizza-in-naples/michele-2.jpg
-    alt: "Another best margherita pizza in the world."
-    title: "Another best margherita pizza in the world."
+    alt: "Another best margherita in the world."
+    title: "Another best margherita in the world."
   
 ---
 
@@ -104,7 +110,7 @@ If you ever wondered how the best margherita pizza in the world tastes, just vis
 
 ## Gino Sorbillo Antica Pizzeria
 
-##### [:globe_with_meridians: Website]() | [:book: TripAdvisor]() | :pizza: Price range: 5-7€
+##### [:globe_with_meridians: Website](http://www.sorbillo.it/gino-sorbillo-antica-pizzeria) | [:book: TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g187785-d1034513-Reviews-Sorbillo-Naples_Province_of_Naples_Campania.html) | :pizza: Price range: 5-10€
 
 ## Concettina ai Tre Santi
 
