@@ -37,7 +37,8 @@
           {% else %}
             "{{ img.image_path | relative_url }}"
           {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+          {% if img.alt %}title="{{ img.alt }}"{% endif %}>
       </a>
     {% else %}
       <img src=
