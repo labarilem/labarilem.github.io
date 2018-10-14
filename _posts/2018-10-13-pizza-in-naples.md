@@ -218,7 +218,7 @@ This pizzeria was not on top of our list. We went there because we happened to w
 
 In 1994 Ernesto Cacialli prepared pizza for the US president Bill Clinton and all of his staff. Afther that he became *Pizzaiolo of the President*. Now Maria Cacialli, his daughter, manages the restaurant in the historical center of Naples while her husband, Felice Messina, is the pizza chef.
 
-This restaurant was not on top of our list but that evening we were craving fried food. In fact, we chose La Figlia del President because it had received good reviews on its fry department and it was a 5-minute walk from us. So we ordered a pair of croquettes, a fried and closed pizza and a sweet fried *stracelli* plate for dessert.
+This restaurant was not on top of our list but that evening we were craving fried food. In fact, we chose La Figlia del Presidente because it had received good reviews on its fry department and it was a 5-minute walk from us. So we ordered a pair of croquettes, a fried and closed pizza and a sweet fried *stracelli* plate for dessert.
 
 {% include gallery columns=2 id="presidente-gallery" height="50" class="" caption="Fried food at La Figlia del Presidente ranges from appetizers to pizza and desserts." %}
 
