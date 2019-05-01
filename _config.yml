@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Marco Labarile"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Software enthusiast."
+  bio              : "Software enthusiast.<br />I blog about new technologies, open source software, algorithms and travel."
   location         : "Italy"
   email            :
   uri              :
