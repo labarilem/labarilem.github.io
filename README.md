@@ -1,24 +1,26 @@
-# Personal website
+# labarilem.github.io
 
-Personal website. https://labarilem.github.io/
+Repository for my [personal website](https://labarilem.github.io/). 
 
-Thanks to https://github.com/mmistakes/minimal-mistakes for the Jekyll theme.
-
-Quick-Start guide: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/.
+Thanks to [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) for the Jekyll theme. [Quick-Start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 ## Contributors
 
+### Requirements
+
+Ruby must be installed on your machine.
+
 ### Setup
 
-Run:
+Run the following command:
 
 ```
 bundle install
 ```
 
-### Serve site in local
+### Serve website from localhost
 
-Run:
+Run the following command:
 
 ```
 bundle exec jekyll serve
