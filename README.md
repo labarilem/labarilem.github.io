@@ -12,7 +12,7 @@ Ruby must be installed on your machine.
 
 ### Quick start
 
-[Here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) you can read the quick start qguide for minimal-mistakes.
+[Here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) you can read the quick start guide for minimal-mistakes.
 
 ### Setup
 
