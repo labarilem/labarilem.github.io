@@ -3,42 +3,33 @@ permalink: /about/
 title: About me
 ---
 
-I am an italian software developer who loves using and developing cutting edge technologies.
+I am a software engineer who loves working on/with interesting technologies to solve hard problems.
 
-Favorite foods:
-
-- Pizza :pizza:
-- Sushi :sushi:
-- Roasted meat :meat_on_bone:
-
-Favorite movie:
-
-- 2001: A Space Odyssey :rocket: :milky_way:
-
-## Working on
-
-- Enterprise project built with ASP.NET Core microservices. Featuring polyglot persistence, advanced monitoring, various sync/async communication protocols and lots of other exciting techs.
-- Source code generator for ASP.NET Core microservices and related components.
-- Open source side projects.
+I have been passionate about computer science since teenage years.
 
 ## Experience
 
-- Developed various kinds of Typescript libraries published as NPM packages with continuous delivery.
+As a software engineer, I have: 
 
-- Developed cross-platform CI and CD tools (e.g. build and pipeline tools) with Typescript + Node.js and C# on .NET Core. These tools have been integrated with third-party build agents systems and source control providers to automate the software production process of the company.
+- Developed an enterprise system based on ASP.NET Core microservices. Got practical experience with polyglot persistence, advanced monitoring, various sync/async communication protocols and lots of other integration technologies. Also, I engineered some parts of the system.
 
-- Developed a framework for data modeling and source code generation that powers several enterprise projects. This framework generates source code for Angular 4 frontends, ASP.NET backends and it's able to generate documentation artifacts too (e.g. markdown files, static HTML websites and PDF files).
+- Designed and implemented a flexible and cross-platform source code generator base on Node.js. This generator has been successfully integrated in several large projects.
 
-- Built web applications with a Typescript + React + Redux frontend and a Typescript + Node.js + Express backend.
+- Developed cross-platform CI and CD tools with Node.js. These tools have been integrated with third-party build systems and source control providers to automate the software production process of the company.
 
-- Using Microsoft TFS to manage builds and teamwork.
+- Developed a web application with a Typescript, React, Redux frontend and a Typescript, Node.js, Express backend.
 
-- Working in agile teams.
+- Worked on a web application with an Angular frontend running in Electron and a Typescript, Node.js, Express backend.
 
-- Built web applications with an Angular 4 frontend running in Electron and a Typescript + Node.js + Express backend.
+As a technical trainer, I have:
 
-- Experience in C# on .NET framework (WinForms, ASP.NET) and early .NET Core (coding solutions to [Project Euler](https://projecteuler.net/archives) problems).
+- Held a course on the Microservice software architecture, offered to experienced software developers. The course covered both theoretical concepts and best practices, with a focus on the .NET Core development platform.
+
+- Held a course on Web Development Fundamentals, offered to high school students. Main topics: HTML 5, CSS & SCSS, Javascript & Typescript, Node.js. At the end of the course, students were able to build a simple real-time chat application with the aforementioned technologies.
 
 ## More
 
-If you want to know more, check out my [Linkedin](https://www.linkedin.com/in/marcolabarile/) and [GitHub](https://github.com/labarilem) profiles.
+If you want to know more about me:
+
+- Check out my professional experience on [Linkedin](https://www.linkedin.com/in/marcolabarile/)
+- Have at look at my open source work on [GitHub](https://github.com/labarilem)

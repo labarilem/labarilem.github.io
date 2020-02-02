@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Marco Labarile"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Software enthusiast.<br />I blog about new technologies, open source software, algorithms and travel."
-  location         : "Italy"
+  bio              : "Software and automation enthusiast.<br />I blog about my adventures in both the digital and the real worlds."
+  location         : "Matera, Italy"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
