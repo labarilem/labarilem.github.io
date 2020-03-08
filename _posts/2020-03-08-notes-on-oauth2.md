@@ -6,7 +6,7 @@ last_modified_at: 2020-03-08
 preview:
   image: /assets/images/2020-03-08-notes-on-oauth2/oauth-logo.png
 categories:
-  - Notes
+  - My notes
 tags:
   - Software Architecture
   - JWT
