@@ -5,10 +5,6 @@ date: 2020-03-08
 last_modified_at: 2020-03-08
 preview:
   image: /assets/images/2020-03-08-oauth2-oidc-which-flow/oauth-logo.png
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "book"
-toc_sticky: true
 categories:
   - Quickstart
 tags:
