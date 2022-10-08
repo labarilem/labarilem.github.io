@@ -70,6 +70,7 @@ presidente-gallery:
     image_path: /assets/images/2018-10-13-pizza-in-naples/presidente-fried-straccetti-small.jpg
     alt: "Fried straccettis with white chocolate and Nutella."
     title: "La Figlia del Presidente - Fried straccetti with white chocolate and Nutella."
+share: false
 ---
 
 Being a fan of pizza I had to visit Naples, which hosts the majority of the best pizzerias in the world.

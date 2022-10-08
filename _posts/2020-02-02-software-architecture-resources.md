@@ -8,6 +8,7 @@ categories:
 tags:
   - Software Architecture
   - Cloud
+share: false
 ---
 
 Currently I'm thinking about moving to a software architect role. Designing systems has been a passion of mine since I started to write software.

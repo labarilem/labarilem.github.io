@@ -12,6 +12,7 @@ tags:
   - JWT
   - OAuth
   - OpenID Connect
+share: false
 ---
 
 I've recently added new topics to my [public notes](https://marcolabarile.me/notes/):

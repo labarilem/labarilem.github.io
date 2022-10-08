@@ -10,6 +10,7 @@ tags:
   - Failure Detection
   - WebAssembly
   - Machine Learning
+share: false
 ---
 
 Some interesting technologies as of November 2018:

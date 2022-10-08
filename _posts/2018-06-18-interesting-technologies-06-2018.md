@@ -12,6 +12,7 @@ tags:
   - WebAssembly
   - .NET Core
   - Machine Learning
+share: false
 ---
 
 Some interesting technologies as of June 2018:

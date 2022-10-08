@@ -36,6 +36,7 @@ qownnotes-scripts-configuration-gallery:
     image_path: /assets/images/2019-04-27-personal-notes/qownnotes-scripts-configuration.png
     alt: "QOwnNotes scripts configuration."
     title: "QOwnNotes scripts configuration."
+share: false
 ---
 
 Personal notes don't usually need scrupulous reviews, they are quick and dirty by nature. You just need to create them without too much effort and then access them from different devices.

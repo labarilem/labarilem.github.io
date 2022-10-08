@@ -12,6 +12,7 @@ tags:
   - Artificial Intelligence
   - Robotics
   - Markdown
+share: false
 ---
 
 Some interesting technologies as of January 2019:

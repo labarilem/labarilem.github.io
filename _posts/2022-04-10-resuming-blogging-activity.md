@@ -7,6 +7,7 @@ categories:
   - My Projects
 tags:
   - Blogging
+share: false
 ---
 
 It's been a couple of very intensive years: from switching to a permanent tech lead role to co-founding my first startup and being a CTO for the first time in my life.

@@ -11,6 +11,7 @@ tags:
   - Software Architecture
   - OAuth
   - OpenID Connect
+share: false
 ---
 
 When designing a software system that needs to deal with [federated identities](https://en.wikipedia.org/wiki/Federated_identity), OAuth 2.0 and OpenID Connect are some of the best options at your disposal.

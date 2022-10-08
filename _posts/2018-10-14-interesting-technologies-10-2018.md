@@ -11,6 +11,7 @@ tags:
   - Kubernetes
   - AdBlocking
   - Machine Learning
+share: false
 ---
 
 Some interesting technologies as of October 2018:

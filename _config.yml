@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Marco Labarile"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Technical leader.<br />I blog about my adventures in both the digital and the real worlds."
+  bio              : "CTO and Technical Leader.<br />I blog about my adventures in both the digital and the real worlds."
   location         : "Bari, Italy"
   email            :
   uri              :
@@ -195,8 +195,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Rome # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
