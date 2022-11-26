@@ -1,6 +1,8 @@
 ---
 title: "My Top 10 Reads of the Week"
-excerpt: Some of the best articles, posts and projects I've found this week.
+excerpt: >
+  Have a look at the best articles, posts, projects and stories I've found this week.
+  Featured topics: machine learning, databases, security and society.
 date: 2022-10-06
 last_modified_at: 2022-10-06
 categories:
