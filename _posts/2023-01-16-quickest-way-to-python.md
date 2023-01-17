@@ -5,7 +5,7 @@ excerpt: >
 date: 2023-01-15
 last_modified_at: 2023-01-16
 preview:
-  image: /assets/images/2023-01-16-aws-sam-json-schema/python.jpg
+  image: /assets/images/2023-01-16-quickest-way-to-python/python.jpg
 categories:
   - Tutorial
 tags:
