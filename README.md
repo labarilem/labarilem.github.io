@@ -30,7 +30,9 @@ bundle install
 
 ### Serve website from localhost
 
-Run the following command:
+Run the `dev.sh` script in the root folder.
+
+Alternatively, run the following command:
 
 ```
 bundle exec jekyll serve

@@ -92,11 +92,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : G-R4HE07M93H
-    anonymize_ip         : # true, false (default)
-
+  provider               : custom # false (default), "google", "google-universal", "google-gtag", "custom"
 
 # Site Author
 author:
