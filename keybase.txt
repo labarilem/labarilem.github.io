@@ -1,0 +1,60 @@
+labarilem
+Marco Labarile
+Hi there!
+Bari, Italy
+==================================================================
+https://keybase.io/labarilem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marcolabarile.me
+  * I am labarilem (https://keybase.io/labarilem) on keybase.
+  * I have a public key ASBelGTCe0h-reGjr0ByDz2HmLOVFt86bIfvR_nbkDJ3Pgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e9464c27b487eade1a3af40720f3d8798b39516df3a6c87ef47f9db9032773e0a",
+      "host": "keybase.io",
+      "kid": "01205e9464c27b487eade1a3af40720f3d8798b39516df3a6c87ef47f9db9032773e0a",
+      "uid": "981e1a23ac3dcf2d7c0541d639e42f19",
+      "username": "labarilem"
+    },
+    "merkle_root": {
+      "ctime": 1678925257,
+      "hash": "ddc422392c3d50d3962d60b8b758c3903caf7d09fae9ed9e19dd6ffc91d17d1f1cfb0fdc9131eab26b925726ed188d6ff2a6f71a7e7792d7396ff98d1f34d593",
+      "hash_meta": "6409f58c0238900fdf4729e405b73cb3a56b7c7e58765ff3ce1df56c19b23181",
+      "seqno": 24201134
+    },
+    "service": {
+      "entropy": "yeb1JL2R7aOJVyfFglbB0OJ8",
+      "hostname": "marcolabarile.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1678925311,
+  "expire_in": 504576000,
+  "prev": "11374bb654c0c2e18fee3874894e795e27d98fb5d87815c0c06c4c32ac8f950a",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXpRkwntIfq3ho69Acg89h5izlRbfOmyH70f525Aydz4Kp3BheWxvYWTESpcCBsQgETdLtlTAwuGP7jh0iU55XifZj7XYeBXAwGxMMqyPlQrEIPfQpblMo9zFxbO9sATeTKLvA2WypLfz4JxUmrh40uotAgHCo3NpZ8RA0l97++iNmOjqIl7vrqVY/VW53aQKbKLWEU3HK7P5X0rNI5/u6sJKrdeH5ZK9JQHBUlRfIULPpknD9wUs+eJpDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAK73aSKVAVrQqlFndHzSE8xigXW5zAqbWpbCXluWOO/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/labarilem
+
+==================================================================
