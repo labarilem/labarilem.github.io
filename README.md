@@ -24,7 +24,7 @@ Ruby with the development toolchain must be installed on your machine.
 
 Run the following commands:
 
-```
+```sh
 bundle install
 ```
 
@@ -32,8 +32,12 @@ bundle install
 
 Run the `dev.sh` script in the root folder.
 
+```sh
+sh dev.sh
+```
+
 Alternatively, run the following command:
 
-```
+```sh
 bundle exec jekyll serve
 ```

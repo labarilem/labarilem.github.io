@@ -3,29 +3,11 @@ permalink: /about/
 title: About me
 ---
 
-I am a software engineer who loves working on/with interesting technologies to solve hard problems.
+I'm a pragmatic software engineer who's all about solving hard challenges with tech. With a strong focus on backend and infrastructure, my preferred stack includes AWS, Node.js, and Postgres. Also, I co-founded and served as CTO for a bootstrapped tech startup for ~2 years.
 
-I have been passionate about computer science since teenage years.
+My passion for computer science ignited back in my teenage years and has been burning ever since.
 
-## Experience
-
-As a software engineer, I have: 
-
-- Developed an enterprise system based on ASP.NET Core microservices. Got practical experience with polyglot persistence, advanced monitoring, various sync/async communication protocols and lots of other integration technologies. Also, I engineered some parts of the system.
-
-- Designed and implemented a flexible and cross-platform source code generator base on Node.js. This generator has been successfully integrated in several large projects.
-
-- Developed cross-platform CI and CD tools with Node.js. These tools have been integrated with third-party build systems and source control providers to automate the software production process of the company.
-
-- Developed a web application with a Typescript, React, Redux frontend and a Typescript, Node.js, Express backend.
-
-- Worked on a web application with an Angular frontend running in Electron and a Typescript, Node.js, Express backend.
-
-As a technical trainer, I have:
-
-- Held a course on the Microservice software architecture, offered to experienced software developers. The course covered both theoretical concepts and best practices, with a focus on the .NET Core development platform.
-
-- Held a course on Web Development Fundamentals, offered to high school students. Main topics: HTML 5, CSS & SCSS, Javascript & Typescript, Node.js. At the end of the course, students were able to build a simple real-time chat application with the aforementioned technologies.
+When I'm not writing code, you might find me pumping iron at the gym, crafting beats in FL Studio, or pouring my thoughts into the digital realm via this blog.
 
 ## More
 
