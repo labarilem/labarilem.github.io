@@ -135,7 +135,7 @@ I have implemented these options in the codemod I built, but we won't go over th
 
 In [AST explorer](https://astexplorer.net/) you can mouse over code paths and see the corresponding AST node. This shows us the paths of the nodes that we need to find and edit.
 
-![Hashcode team](/assets/images/2023-10-14-automating-callbacks-to-async-migration-in-mocha-tests-1/ast-explorer.jpg){: class="center"}
+![AST explorer screenshot](/assets/images/2023-10-14-automating-callbacks-to-async-migration-in-mocha-tests-1/ast-explorer.jpg){: class="center"}
 
 These are the nodes we're looking for:
 1. All *CallExpression*s whose callee is an *Identifier* and its name is `done`.
@@ -287,4 +287,6 @@ Everything looks good, so our workflow ends here. Of course, in a real-world sce
 
 We showed how to implement our transformer with jscodeshift. It can effectively reduce the SW engineer's effort when migrating large Mocha test suites.
 
-You can find the full implementation and a ready-to-use script in the [ts-codemods](https://github.com/labarilem/ts-codemods) repository. If you have any questions/suggestions/ideas, please feel free to open an issue there!
+You can find the full implementation and a ready-to-use script in the [ts-codemods](https://github.com/labarilem/ts-codemods) repository. If you have any questions/suggestions/ideas, please feel free to open an issue there.
+
+See you at the [next article](https://marcolabarile.me/my%20projects/2023/10/13/automating-callbacks-to-async-migration-in-mocha-tests-2) of this series!
