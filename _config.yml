@@ -98,8 +98,8 @@ analytics:
 author:
   name             : "Marco Labarile"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Senior Backend Engineer.<br />I blog about my adventures in both the digital and the real worlds."
-  location         : "Bari, Italy"
+  bio              : "Senior Backend Engineer.<br />I blog about my adventures in cyberspace and meatspace."
+  location         : "Italy"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

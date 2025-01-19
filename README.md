@@ -41,3 +41,7 @@ Alternatively, run the following command:
 ```sh
 bundle exec jekyll serve
 ```
+
+### Deploy
+
+Push to Github to deploy
