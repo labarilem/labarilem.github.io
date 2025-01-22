@@ -1,5 +1,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "Archive"
     url: /year-archive/
