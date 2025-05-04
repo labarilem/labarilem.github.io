@@ -7,7 +7,7 @@ Recently moved from Bari to Pisa, Italy. You've probably heard about its [Leanin
 
 Working as Senior Backend Engineer at Mamacrowd, in full remote. The remote arrangement helps a lot when one needs to move.
 
-Increased gym frequency from 4 days/week to 5 days. I added a light day focused on cardio and some complementary exercises with weights. I'm focusing on the bench press right now, aiming at the 110kg personal best.
+Increased gym frequency from 4 days/week to 5 days. I added a light day focused on cardio and some complementary exercises with weights. I'm focusing on the bench press right now, aiming at the 115kg personal best.
 
 Building some software tools and projects on my backlog and learning more about C programming and PostgreSQL.
 
