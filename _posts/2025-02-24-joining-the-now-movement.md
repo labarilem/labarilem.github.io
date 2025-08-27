@@ -5,7 +5,7 @@ excerpt: >
 date: 2025-02-24
 last_modified_at: 2025-02-25
 categories:
-  - My Projects
+  - Blog
 tags:
   - Blogging
 share: false
