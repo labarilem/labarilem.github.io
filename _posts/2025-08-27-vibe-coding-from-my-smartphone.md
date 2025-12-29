@@ -7,7 +7,7 @@ last_modified_at: 2025-08-28
 categories:
   - My Projects
 tags:
-  - Blogging
+  - Math
 share: false
 ---
 
