@@ -11,7 +11,7 @@ tags:
 share: false
 ---
 
-A few months back I started thinking about a simple idea: *“Wouldn't it be cool to browse games made by the Hacker News community in one place?”*. So I slowly started building [Hacker News Games](https://hackernews.games/), my latest small corner of the web.
+A few months back I started thinking about a simple idea: *“Wouldn't it be cool to browse games made by the Hacker News community in one place?”*. So I slowly started building [Hacker News Games](https://hn-games.marcolabarile.me/), my latest small corner of the web.
 
 ## A library of tiny worlds
 
@@ -64,17 +64,20 @@ Filtering and sorting are essential, and they can be done directly from the home
 
 The goal is simple: **make discovery feel lightweight**. You should be able to land on the site, click something weird, and be playing within seconds.
 
-I also added a [/random](https://hackernews.games/random) page to play a random game and a [/rip](https://hackernews.games/rip) page to check out decommissioned games, if you're looking for nostalgia. 
+I also added a [/random](https://hn-games.marcolabarile.me/random) page to play a random game and a [/rip](https://hn-games.marcolabarile.me/rip) page to check out decommissioned games, if you're looking for nostalgia. 
 
 ## Adding a newsletter (without overthinking it)
 
-At some point I realized I wanted a low-effort way to share updates: newly added games, small site changes, or interesting finds from the catalog. That's how the [HN Games newsletter](https://hackernews.games/newsletter) came to life.
+At some point I realized I wanted a low-effort way to share updates: newly added games, small site changes, or interesting finds from the catalog. That's how the HN Games newsletter came to life.
 
 I built it using [Kit](https://kit.com/). I deliberately chose it because it's free, quick to set up, and it provides a valid physical mailing address, which makes dealing with newsletter legal requirements much easier without extra work or cost.
 
 The newsletter is intentionally lightweight. No growth hacks, no weekly promises. Just occasional updates when there's something genuinely worth sharing. It fits the spirit of the project: small, useful, and respectful of people's inboxes.
 
 This is also an experiment that helps me gauge interest in the project. If not too many people use it, I may choose to remove it in the future.
+
+UPDATE: I removed the newsletter since not enough people were interested to make it worth the effort. _And it was low-effort._
+{: .notice--info}
 
 ## Shipping a small thing to the internet
 
