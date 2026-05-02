@@ -5,6 +5,7 @@ title: Projects
 
 Here you can find some of my projects:
 - [HN Games](https://hn-games.marcolabarile.me/), a curated catalog of games created by the Hacker News community.
+- [opl-tools](https://www.npmjs.com/package/@labarilem/opl-tools), CLI tools to convert powerlifting meet results into OpenPowerlifting CSV format.
 - [Brainfaq MCP](https://github.com/labarilem/brainfaq-mcp), an MCP server for the Brainfuck programming language that allows your favourite LLM to debug Brainfuck programs.
 - [Collatz Lottery](https://collatz-lottery.marcolabarile.me/), a fun project for people feeling lucky with numbers and conjectures.
 - [Calcolo Massimale](https://calcolomassimale.marcolabarile.me/), an online tool to estimate 1RM in strength exercises. It's only available in italian language.
